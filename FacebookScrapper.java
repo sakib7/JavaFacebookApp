@@ -165,7 +165,7 @@ public class FacebookScrapper extends Application {
                 .data(names.get(2), values.get(2))
                 .data(names.get(3), values.get(3))
                 .data(names.get(4), values.get(4))
-                .data(names.get(5), "email addres")
+                .data(names.get(5), "email")
                 .data(names.get(6), "password")
                 .data(names.get(7), values.get(7))
                 .data(names.get(8), values.get(8))
